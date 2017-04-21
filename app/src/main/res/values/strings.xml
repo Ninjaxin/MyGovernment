@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGovernment</string>
+    <string name="locationText">Location</string>
+    <string name="title_activity_officer_detail">officerDetail</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="Author">© 2017, Sukrit Gulati</string>
+    <string name="version">Version 1.0</string>
+    <string name="Info">Info</string>
+</resources>
